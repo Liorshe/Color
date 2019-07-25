@@ -12,7 +12,7 @@ class LogActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
-      // val spEmail = getSharedPreferences( )
+      /// val spEmail = getSharedPreferences( )
 
 
     }
